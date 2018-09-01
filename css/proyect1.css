@@ -1,0 +1,38 @@
+.wrapper {
+    margin:10px;
+}
+/*
+
+.portfolio-box {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}*/
+#size_2 {
+    width: 49.9% !important;
+}
+
+.grid {
+  background: #DDD;
+  margin: 0 auto; /* centered */
+}
+
+/* clear fix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* ---- .grid-item ---- */
+
+.grid-item {
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin-bottom: 20px;
+  background: #0D8;
+  border: 2px solid #333;
+  border-color: hsla(0, 0%, 0%, 0.7);
+}
+
+.grid-item--width { width: 50%; }

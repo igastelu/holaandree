@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'GothamNarrowUltra';
+    src: url('fonts/GothamNarrowUltra.eot');
+    src: url('fonts/GothamNarrowUltra.eot') format('embedded-opentype'),
+         url('fonts/GothamNarrowUltra.woff2') format('woff2'),
+         url('fonts/GothamNarrowUltra.woff') format('woff'),
+         url('fonts/GothamNarrowUltra.ttf') format('truetype'),
+         url('fonts/GothamNarrowUltra.svg#GothamNarrowUltra') format('svg');
+}
